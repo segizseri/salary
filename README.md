@@ -1,6 +1,11 @@
-DATABASE FILE  employee.sql 
-    'class' => 'yii\db\Connection',
-    'dsn' => 'mysql:host=localhost;dbname=personal',
-    'username' => 'root',
-    'password' => '',Cancel changes
-    'charset' => 'utf8',
+Database File:
+
+```sh
+employee.sql
+```
+
+DB name:
+
+```sh
+'dsn' => 'mysql:host=localhost;dbname=personal'
+```
