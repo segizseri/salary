@@ -1,3 +1,7 @@
+```sh
+git clone "https://github.com/segizseri/salary.git" employee
+```
+
 Database File:
 
 ```sh
